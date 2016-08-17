@@ -1,0 +1,27 @@
+{
+  "name": "birthday_likes",
+  "version": "1.0.0",
+  "description": "Like all posts containing happy birthday messages on facebook",
+  "main": "fb_like.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyam12860/birthday_likes.git"
+  },
+  "keywords": [
+    "Facebook",
+    "Birthday",
+    "Like"
+  ],
+  "author": "Shyam Sundar Subramaniyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyam12860/birthday_likes/issues"
+  },
+  "homepage": "https://github.com/shyam12860/birthday_likes#readme",
+  "dependencies": {
+    "fbgraph": "*"
+  }
+}
